@@ -367,4 +367,4 @@ function documentacionPersona(dniPersona) {
 //     edad: 20
 // }
 //-----------invocador-----------
-// documentacionPersona()
+documentacionPersona()
