@@ -1,0 +1,17 @@
+main div{
+    background-color: blanchedalmond;
+    border: 2px solid rgb(116, 98, 98);
+    padding-top: 2%;
+}
+#colorCube{
+    height: 20vh;
+    border: 2px solid rgb(116, 98, 98);
+}
+#cubeColorText{
+    height: 30vh;
+    display: flex !important;
+    flex-wrap: wrap !important;
+}
+#textoBlanco {
+    color: aliceblue;
+}
